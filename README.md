@@ -1,6 +1,6 @@
 # Image Clustering with External Guidance (TAC)
 
-This is the code for the paper "Image Clustering with External Guidance" (ICML 2024). Our key idea is to improve image clustering leveraging the external textual semantics from the pre-trained model, in the absence of class name prior.
+This is the code for the paper "Image Clustering with External Guidance" (ICML 2024, Oral). Our key idea is to improve image clustering leveraging the external textual semantics from the pre-trained model, in the absence of class name prior.
 
 <div align=center><img src="Figures/performance.png" width="45.3%" sty le="margin-right: 20px"/> <img src="Figures/example.png" width = "42%"/></div>
 
