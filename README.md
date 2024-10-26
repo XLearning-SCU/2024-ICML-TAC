@@ -63,7 +63,7 @@ If you find TAC useful in your research, please consider citing:
 @inproceedings{
   li2024image,
   title={Image Clustering with External Guidance},
-  author={Yunfan Li and Peng Hu and Dezhong Peng and Jiancheng Lv and Jianping Fan and Xi Peng},
+  author={Li, Yunfan and Hu, Peng and Peng, Dezhong and Lv, Jiancheng and Fan, Jianping and Peng, Xi},
   booktitle={Forty-first International Conference on Machine Learning},
   year={2024},
   url={https://openreview.net/forum?id=JSYN891WnB}
